@@ -1,4 +1,4 @@
-import Areautil from "@/app/componentes/Areautil"
+  import Areautil from "@/app/componentes/Areautil"
 
 export default function Dash(){
   return(
