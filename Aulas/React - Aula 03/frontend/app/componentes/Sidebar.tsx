@@ -7,7 +7,7 @@ import {
     Handshake,
     Ham,
     LogOut,
-} from 'lucide-react'
+} from 'lucide-react'   
 
 import Image from 'next/image'
 

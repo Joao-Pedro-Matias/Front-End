@@ -8,7 +8,7 @@ interface IArea {
 
 export default function UsefulArea({ title, subtitle, children }: IArea) {
     return (
-        <div className="w-screen h-screen bg-backgroud-color flex">
+        <div className="w-screen h-screen bg-background-color flex">
             <Sidebar/>
             <div className="flex flex-col">
                 <div className="px-[3vw] py-[6vh] flex flex-col gap-2">
