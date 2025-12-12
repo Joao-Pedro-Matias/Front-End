@@ -17,8 +17,10 @@
   --color-secundary: #9810FA;
   --color-secundary-dark: #5A0994;
 
-
   --color-text-primary: #979797;
+
+  --color-popup-success: #1f702f;
+  --color-popup-error: #db1a1a;
 
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
