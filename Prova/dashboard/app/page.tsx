@@ -56,8 +56,8 @@ export default function UsefulArea() {
                 {error && <Popup status="Erro!" msg="Credenciais inválidas, digite novamente."  />}
                 
                 <Card
-                    size="w-[25vw] h-[45vh]"
-                    style="primary">
+                    
+                    style="login">
 
                     <div className="w-full flex flex-col gap-2">
                         <img src="/images/Logo.png" className="w-60 h-12 object-cover flex items-center" />

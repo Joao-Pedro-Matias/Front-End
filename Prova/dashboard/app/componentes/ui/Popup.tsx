@@ -52,7 +52,6 @@ export default function Popup({ status, msg}: IPopup) {
 
     return (
         <Card
-            size="w-[20vw] h-[10vh]"
             style="popup">
             <div className="w-full">
                 <span
